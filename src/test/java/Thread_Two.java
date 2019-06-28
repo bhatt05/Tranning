@@ -10,8 +10,8 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class Thread_Two {
-	String username = "jaggijaks";
-	String password = "9411574348";
+	String username = "";
+	String password = "";
 	WebDriver driver;
 	@Test
 	public void a() throws InterruptedException {
