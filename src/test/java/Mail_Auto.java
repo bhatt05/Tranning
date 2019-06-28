@@ -9,8 +9,8 @@ import org.testng.Assert;
 import org.testng.annotations.*;
 
 public class Mail_Auto {
-	String username = "bhattjagdish253";
-	String password = "Hesoyam@12";
+	String username = "";
+	String password = "";
 	WebDriver driver;
 	@Test
 	public void a() throws InterruptedException {
